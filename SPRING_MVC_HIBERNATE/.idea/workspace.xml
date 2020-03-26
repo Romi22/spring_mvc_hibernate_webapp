@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3b346ced-dd6c-41ea-b5f1-bba7722ead2e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZaHW317I3calGwy43uPKJtCiMs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/WEB-INF" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="com.intellij.jarRepository.settings.RemoteRepositoriesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\romiakhtarkhan\Downloads\SpringMVCHibernate (1)\SPRING_MVC_HIBERNATE\src\main\webapp\WEB-INF" />
+      <recent name="C:\Users\romiakhtarkhan\Downloads\SpringMVCHibernate (1)\SPRING_MVC_HIBERNATE\src\main" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.luv2code.springdemo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\romiakhtarkhan\Downloads\SpringMVCHibernate (1)\SPRING_MVC_HIBERNATE\src\main\java\com\luv2code\springdemo\controller" />
+      <recent name="C:\Users\romiakhtarkhan\Downloads\SpringMVCHibernate (1)\SPRING_MVC_HIBERNATE\src\main\webapp\WEB-INF" />
+      <recent name="C:\Users\romiakhtarkhan\Downloads\SpringMVCHibernate (1)\SPRING_MVC_HIBERNATE\src\main\webapp" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b346ced-dd6c-41ea-b5f1-bba7722ead2e" name="Default Changelist" comment="" />
+      <created>1585070312151</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585070312151</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="145" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585117754784">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="414" y="145" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1585117754784" />
+    <state x="446" y="26" key="#com.intellij.ide.util.MemberChooser" timestamp="1585199779932">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="26" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1585199779932" />
+    <state x="371" y="89" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585145643084">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="89" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1585145643084" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1585142390892">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585142390892" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1585142390891">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1585142390891" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1585142390890">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1585142390890" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1585142390892">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1585142390892" />
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog" timestamp="1585156267325">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1585156267325" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1585216942285">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1585216942285" />
+    <state x="336" y="72" width="739" height="606" key="find.popup" timestamp="1585159956564">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="336" y="72" width="739" height="606" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1585159956564" />
+  </component>
+</project>
